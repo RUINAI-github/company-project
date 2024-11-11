@@ -11,5 +11,6 @@ for i in range(2**n - c):
     answer.append(0)
 print(answer)
 
+print("add more")
 
 print(math.log2(1))
